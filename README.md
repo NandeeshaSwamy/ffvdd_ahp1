@@ -4,7 +4,7 @@
 
 ## **I. Introduction**
 
-The project design is based on Integrated Clock Gating using SKY 130nm technology node. 
+The project design is based on Integrated Clock Gating. 
 
   In current VLSI design, the power dissipation is the most important parameter that signifies the need of low power circuits. In most of the ICs clock consumes 30-40 % of total power. So the integrated clock gating logic is used in many synchronous circuits for reducing dynamic power dissipation, by removing the clock signal when the circuit is not in use. 
 
