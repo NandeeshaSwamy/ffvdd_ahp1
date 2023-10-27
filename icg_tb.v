@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module iiitb_icg_tb();
+module icg_tb();
     reg in, clk, d0, d1;
     wire q0, q1;
     
