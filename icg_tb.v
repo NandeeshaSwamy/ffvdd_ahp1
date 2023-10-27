@@ -7,8 +7,8 @@ module icg_tb();
     iiitb_icg uut (.in(in), .clk(clk), .d0(d0), .d1(d1), .q0(q0), .q1(q1));
     initial 
     begin
-    $dumpfile("iiitb_icg_tb.vcd");
-	$dumpvars(0,iiitb_icg_tb);
+    $dumpfile("icg_tb.vcd");
+	$dumpvars(0,icg_tb);
 	// Initialize Inputs
     in = 0;
     d0 = 0;
