@@ -3,7 +3,7 @@
 ## Table of Content 
 I. [**FFVDD AHP - 1**](#ffvdd-ahp-1) 
 
-II. [**FFVDD AHP - 2**](#ffvdd-ahp-2)  
+II. [**Layered Testbench**](#layered-testbench)  
 
 <h1 align="center">FFVDD AHP-1</h1>
 
@@ -40,7 +40,7 @@ To avoid this, a special kind of clock gating cells are used, that synchronizes 
 
 ![Screenshot from 2023-10-25 12-31-02](https://github.com/NandeeshaSwamy/ffvdd_ahp1_igc/assets/135737910/c2ec1ff2-57b4-4c0a-a01f-2ba3ee445869)
 
-<h1 align="center">FFVDD AHP-2</h1>
+<h1 align="center">Layered Testbench</h1>
 
 ## **I. Simulated Waveform**
 
