@@ -34,3 +34,14 @@ To avoid this, a special kind of clock gating cells are used, that synchronizes 
 
 
 ![Screenshot from 2023-10-25 12-31-02](https://github.com/NandeeshaSwamy/ffvdd_ahp1_igc/assets/135737910/c2ec1ff2-57b4-4c0a-a01f-2ba3ee445869)
+
+<h1 align="center">FFVDD AHP-2</h1>
+
+## **I. Simulated Waveform**
+
+![Screenshot from 2023-11-23 15-22-50](https://github.com/NandeeshaSwamy/ffvdd_ahp1_igc/assets/135737910/63cfc835-0396-40ac-b686-9351a2fa7a78)
+
+## **II. Code Coverage**
+
+![Screenshot from 2023-11-23 15-11-38](https://github.com/NandeeshaSwamy/ffvdd_ahp1_igc/assets/135737910/58e12a8c-a73c-46e6-bf88-6e455ad6426a)
+
